@@ -15,8 +15,8 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frontend:** React.js, Bootstrap 4
+- **Languages:** JavaScript, Python, HTML, CSS, C, C++, Java
+- **Frontend:** React.js, Bootstrap, Ejs, Hbs
 - **Backend:** Node.js, Express.js, Next.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, Docker
