@@ -20,7 +20,7 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 - **Backend:** Node.js, Express.js, Next.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, Docker
-- **Other:** Axios, React Router, React Suspense, BrowserRouter, `useState`, `useEffect`
+- **Other:** Axios, React Router, Passport.
 
 ### 🔧 Projects
 
