@@ -20,7 +20,7 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 - **Backend:** Node.js, Express.js, Next.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, Docker
-- **Other:** Axios, React Router, Passport.
+- **Other:** Axios, React Router, Passport
 
 ### 🔧 Projects
 
@@ -32,6 +32,11 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 
 - **Next.js:** Exploring server-side rendering and static site generation.
 - **Advanced React:** Diving deeper into React with custom hooks, context API, and performance optimization techniques.
+
+### 📊 GitHub Stats & Languages
+
+![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhagopan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhagopan&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
 
