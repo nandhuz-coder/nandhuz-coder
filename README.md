@@ -35,14 +35,8 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 
 ### 📊 GitHub Stats & Languages
 
-![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
-
-### 🌟 Top Repositories
-
-[![Web-Based Library Management System V3](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=Web-Based-Library-Management-System-V3&theme=radical)](https://github.com/nandhuz-coder/Web-Based-Library-Management-System-V3)  
-[![Discord Whitelist Bot](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=discord-whitelist-bot&theme=radical)](https://github.com/nandhuz-coder/discord-whitelist-bot)  
-[![Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=admin-dashboard&theme=radical)](https://github.com/nandhuz-coder/admin-dashboard)
+- ![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
 
 ---
 
