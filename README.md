@@ -1,77 +1,48 @@
-# Hello, welcome! 👋
+# Hi there, I'm Nandha Gopan 👋
 
-### My name is Nandhagopan and I'm a developer from Kollam, Kerala, India
+### 🚀 About Me
 
----
+I'm a **student**, **freelance developer**, and **tech enthusiast** with a strong passion for software development, particularly in **full-stack web development**. I specialize in **Node.js** and **React.js** and have experience in **open-source collaboration**.
 
-## About Me
+Currently, I'm pursuing a degree in **Computer Science and Engineering** at the [College of Engineering Pathanapuram](https://www.cetpathanapuram.ac.in/). Alongside my studies, I actively participate in various social activities and associations, including IEEE. I believe in not just sticking to the curriculum but also studying independently and collaborating on projects that solve real-world problems.
 
-✨ Creating bugs since 2018.  
-📚 Currently learning React and Python.  
-🎯 Goals: MERN stack, AI.  
-🎲 Fun fact: Bugs love errors, and errors love me.
+### 💼 Professional Experience
 
----
+- **District General Secretary** of KSU (Kerala Students Union), where I engage in political and social activities.
+- Developed a **Library Management Project**, focusing on both frontend and backend technologies.
+- Worked on a **Discord API and moderation/whitelist bot** project, showcasing my skills in API development and bot creation.
+- Participated in the **International GenAI Conclave** at the Grand Hyatt Kochi Bolgatty, where I explored the future potential of generative technologies.
 
-## I Code With
+### 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" alt="Handlebars logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="Discord.js logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
-</div>
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frontend:** React.js, Bootstrap 4
+- **Backend:** Node.js, Express.js, Next.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Docker
+- **Other:** Axios, React Router, Passport
 
----
+### 🔧 Projects
 
-## GitHub Stats & Languages
+- **Library Management System:** A full-stack application to manage library operations, with features like book inventory, user management, and more.
+- **Discord Bot:** A bot for moderation and whitelist management, developed using Discord API.
+- **Admin Dashboard:** A React-based admin panel with role-based access, featuring dynamic routing, pagination, and alert notifications.
+
+### 🌱 What I'm Learning
+
+- **Next.js:** Exploring server-side rendering and static site generation.
+- **Advanced React:** Diving deeper into React with custom hooks, context API, and performance optimization techniques.
+
+### 📊 GitHub Stats & Languages
 
 ![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
 
----
+### 📫 Let's Connect
 
-## Find Me On
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nandhagopan45" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://discord.gg/JTmG3mX9GT" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/nandhagopan_45/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/nandha.gopan.908/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo"  />
-  </a>
-  <a href="https://twitter.com/NandhaGopan_45" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"  />
-  </a>
-  <a href="mailto:nandhagopan102@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
-  </a>
-</div>
-
----
-
-## Have Some Fun
-
-![Snake animation](https://raw.githubusercontent.com/nandhuz-coder/nandhuz-coder/output/snake.svg)
+- **LinkedIn:** [Nandha Gopan](https://www.linkedin.com/in/nandhagopan)
+- **Twitter:** [@nandha_gopan](https://twitter.com/nandha_gopan)
+- **Email:** dev.nandhagopan@gmail.com
 
 ---
 
