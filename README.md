@@ -38,6 +38,20 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 ![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
 
+---
+
+### 📈 Contribution Graph
+
+![Nandha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandhuz-coder&theme=radical)
+
+### 🌟 Top Repositories
+
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=library-management-system&theme=radical)](https://github.com/nandhuz-coder/library-management-system)  
+[![Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=discord-bot&theme=radical)](https://github.com/nandhuz-coder/discord-bot)  
+[![Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=admin-dashboard&theme=radical)](https://github.com/nandhuz-coder/admin-dashboard)
+
+---
+
 ### 📫 Let's Connect
 
 - **LinkedIn:** [Nandha Gopan](https://www.linkedin.com/in/nandhagopan)
