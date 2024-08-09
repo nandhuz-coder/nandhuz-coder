@@ -24,8 +24,8 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 
 ### 🔧 Projects
 
-- **Library Management System:** A full-stack application to manage library operations, with features like book inventory, user management, and more.
-- **Discord Bot:** A bot for moderation and whitelist management, developed using Discord API.
+- **Web-Based Library Management System V3:** A full-stack application to manage library operations, with features like book inventory, user management, and more.
+- **Discord Whitelist Bot:** A bot for moderation and whitelist management, developed using Discord API.
 - **Admin Dashboard:** A React-based admin panel with role-based access, featuring dynamic routing, pagination, and alert notifications.
 
 ### 🌱 What I'm Learning
@@ -38,18 +38,11 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 ![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
 
----
-
-### 📈 Contribution Graph
-
-![Nandha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=nandhuz-coder&theme=radical)
-
-### 🌟 Top Repositories
-
 ### 🌟 Top Repositories
 
 [![Web-Based Library Management System V3](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=Web-Based-Library-Management-System-V3&theme=radical)](https://github.com/nandhuz-coder/Web-Based-Library-Management-System-V3)  
-[![Discord Whitelist Bot](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=discord-whitelist-bot&theme=radical)](https://github.com/nandhuz-coder/discord-whitelist-bot)
+[![Discord Whitelist Bot](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=discord-whitelist-bot&theme=radical)](https://github.com/nandhuz-coder/discord-whitelist-bot)  
+[![Admin Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=nandhuz-coder&repo=admin-dashboard&theme=radical)](https://github.com/nandhuz-coder/admin-dashboard)
 
 ---
 
