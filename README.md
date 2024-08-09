@@ -43,7 +43,7 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 ### 📫 Let's Connect
 
 - **LinkedIn:** [Nandha Gopan](https://www.linkedin.com/in/nandhagopan45)
-- **Twitter:** [@nandha_gopan](https://twitter.com/nandha_gopan)
+- **Twitter:** [@nandha_gopan](https://twitter.com/nandhagopan_45)
 - **Email:** dev.nandhagopan@gmail.com
 
 ---
