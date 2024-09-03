@@ -35,8 +35,10 @@ Currently, I'm pursuing a degree in **Computer Science and Engineering** at the 
 
 ### 📊 GitHub Stats & Languages
 
- ![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
+![Nandha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhuz-coder&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhuz-coder&layout=compact&theme=radical)
+
 
 ---
 
