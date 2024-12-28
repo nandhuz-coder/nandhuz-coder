@@ -4,7 +4,7 @@
 
 I'm a **student**, **freelance developer**, and **tech enthusiast** with a strong passion for software development, particularly in **full-stack web development**. I specialize in **Node.js** and **React.js** and have experience in **open-source collaboration**.
 
-Currently, I'm pursuing a degree in **Computer Science and Engineering** at the [College of Engineering Pathanapuram](https://www.cetpathanapuram.ac.in/). Alongside my studies, I actively participate in various social activities and associations, including IEEE. I believe in not just sticking to the curriculum but also studying independently and collaborating on projects that solve real-world problems.
+Currently, I'm pursuing a degree in **Computer Science and Engineering** at the [College of Engineering Pathanapuram](https://www.cepathanapuram.ac.in/). Alongside my studies, I actively participate in various social activities and associations, including IEEE. I believe in not just sticking to the curriculum but also studying independently and collaborating on projects that solve real-world problems.
 
 ### 💼 Professional Experience
 
